@@ -79,6 +79,3 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 
 deploy:
-	type:git
-        repository:git@github.com:sf007s/sf007s.github.io.git
-	branch:master
